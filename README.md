@@ -1,1 +1,1 @@
-# CAWSNet
+Hi! You are welcome to visit here! This repository will be used to release the code of a novel image restoration model called the Channel Attention Weight Sharing Network for Single Image Denoising (abbreviated as CAWSNet), which has been proposed in our paper entitled "CAWSNet: Channel Attention Weight Sharing Network for Single Image Denoising" submitted to the International journal of Knowledge-Based Systems（KBS）. NOTE that once our manuscript is accepted by the journal, we will release the code and experimental results immediately.
